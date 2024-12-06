@@ -1,1 +1,1 @@
-# 1T_mod2-V2
+Запускаем командой: docker-compose -f E:/prom_attest_2/docker-compose.yml up
